@@ -34,12 +34,6 @@ Notes:
 ### title1
 ![title1](out/title1.png)
 
-### title2
-![title2](out/title2.png)
-
-### title_16
-![title_16](out/title_16.png)
-
 ### panel
 ![panel](out/panel.png)
 
