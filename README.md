@@ -20,40 +20,40 @@ Notes:
 The images resulting from running this tool against Supaplex Spfix63 build are located in the [/out](/out) directory. Previews below:
 
 ### TITLE.DAT
-<img src="out/title.png"  width="960px">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title.png"  width="960px">
 
 ### MOVING.DAT
-<img src="out/moving.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/moving.png" width="960">
 
 ### FIXED.DAT
-<img src="out/fixed.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/1280/github.com/visrealm/supaplex-tools/raw/main/out/fixed.png" width="1280">
 
 ### TITLE1.DAT
-<img src="out/title1.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title1.png" width="960">
 
 ### TITLE2.DAT
-<img src="out/title2.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title2.png" width="960">
 
 ### MENU.DAT
-<img src="out/menu.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/menu.png" width="960">
 
 ### PANEL.DAT
-<img src="out/panel.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/panel.png" width="960">
 
 ### CHARS6.DAT
-<img src="out/chars6.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/1024/github.com/visrealm/supaplex-tools/raw/main/out/chars6.png" width="1024">
 
 ### CHARS8.DAT
-<img src="out/chars8.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/1024/github.com/visrealm/supaplex-tools/raw/main/out/chars8.png" width="1024">
 
 ### CONTROLS.DAT
-<img src="out/controls.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/controls.png" width="960">
 
 ### GFX.DAT
-<img src="out/gfx.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/gfx.png" width="960">
 
 ### BACK.DAT
-<img src="out/back.png" width="960">
+<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/back.png" width="960">
 
 ## License
 This code is licensed under the MIT license. See [LICENSE](LICENSE).
