@@ -16,38 +16,44 @@ Notes:
 - Known files are listed in `DAT_SPECS` inside the script (MENU, BACK, CONTROLS, GFX, TITLE*, PANEL, MOVING, FIXED, CHARS6/8). Unknown `.DAT` files are skipped.
 
 ## Output previews
-### menu
-<img src="out/menu.png" width="960">
 
-### back
-<img src="out/back.png" width="960">
+The images resulting from running this tool against Supaplex Spfix63 build are located in the (/out)[/out] directory. Previews below:
 
-### controls
-<img src="out/controls.png" width="960">
+### TITLE.DAT
+<img src="out/title.png"  width="960px">
 
-### gfx
-<img src="out/gfx.png" width="960">
-
-### title
-<img src="out/title.png" width="960">
-
-### title1
+### TITLE1.DAT
 <img src="out/title1.png" width="960">
 
-### panel
+### TITLE2.DAT
+<img src="out/title2.png" width="960">
+
+### MENU.DAT
+<img src="out/menu.png" width="960">
+
+### PANEL.DAT
 <img src="out/panel.png" width="960">
 
-### moving
+### MOVING.DAT
 <img src="out/moving.png" width="960">
 
-### fixed
+### FIXED.DAT
 <img src="out/fixed.png" width="960">
 
-### chars6
+### CHARS6.DAT
 <img src="out/chars6.png" width="960">
 
-### chars8
+### CHARS8.DAT
 <img src="out/chars8.png" width="960">
 
+### CONTROLS.DAT
+<img src="out/controls.png" width="960">
+
+### GFX.DAT
+<img src="out/gfx.png" width="960">
+
+### BACK.DAT
+<img src="out/back.png" width="960">
+
 ## License
-MIT. See [LICENSE](LICENSE).
+This code is licensed under the MIT license. See [LICENSE](LICENSE).
