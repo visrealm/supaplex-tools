@@ -22,6 +22,12 @@ The images resulting from running this tool against Supaplex Spfix63 build are l
 ### TITLE.DAT
 <img src="out/title.png"  width="960px">
 
+### MOVING.DAT
+<img src="out/moving.png" width="960">
+
+### FIXED.DAT
+<img src="out/fixed.png" width="960">
+
 ### TITLE1.DAT
 <img src="out/title1.png" width="960">
 
@@ -33,12 +39,6 @@ The images resulting from running this tool against Supaplex Spfix63 build are l
 
 ### PANEL.DAT
 <img src="out/panel.png" width="960">
-
-### MOVING.DAT
-<img src="out/moving.png" width="960">
-
-### FIXED.DAT
-<img src="out/fixed.png" width="960">
 
 ### CHARS6.DAT
 <img src="out/chars6.png" width="960">
