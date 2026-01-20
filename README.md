@@ -17,37 +17,37 @@ Notes:
 
 ## Output previews
 ### menu
-![menu](out/menu.png)
+<img src="out/menu.png" width="960">
 
 ### back
-![back](out/back.png)
+<img src="out/back.png" width="960">
 
 ### controls
-![controls](out/controls.png)
+<img src="out/controls.png" width="960">
 
 ### gfx
-![gfx](out/gfx.png)
+<img src="out/gfx.png" width="960">
 
 ### title
-![title](out/title.png)
+<img src="out/title.png" width="960">
 
 ### title1
-![title1](out/title1.png)
+<img src="out/title1.png" width="960">
 
 ### panel
-![panel](out/panel.png)
+<img src="out/panel.png" width="960">
 
 ### moving
-![moving](out/moving.png)
+<img src="out/moving.png" width="960">
 
 ### fixed
-![fixed](out/fixed.png)
+<img src="out/fixed.png" width="960">
 
 ### chars6
-![chars6](out/chars6.png)
+<img src="out/chars6.png" width="960">
 
 ### chars8
-![chars8](out/chars8.png)
+<img src="out/chars8.png" width="960">
 
 ## License
 MIT. See [LICENSE](LICENSE).
