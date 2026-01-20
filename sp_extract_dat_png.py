@@ -147,7 +147,7 @@ DatSpec = Dict[str, object]
 DAT_SPECS: Dict[str, DatSpec] = {
     "MENU.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("palettes", 1)},
     "CONTROLS.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("palettes", 2)},
-    "BACK.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("palettes", 1)},
+    "BACK.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("palettes", 0)},
     "GFX.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("palettes", 1)},
     "TITLE.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("title", None)},
     "TITLE1.DAT": {"width": 320, "height": 200, "decoder": "bitplane4", "palette": ("title1", None)},
