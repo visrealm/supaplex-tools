@@ -17,7 +17,7 @@ Notes:
 
 ## Output previews
 
-The images resulting from running this tool against Supaplex Spfix63 build are located in the (/out)[/out] directory. Previews below:
+The images resulting from running this tool against Supaplex Spfix63 build are located in the [/out](/out) directory. Previews below:
 
 ### TITLE.DAT
 <img src="out/title.png"  width="960px">
