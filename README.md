@@ -20,25 +20,25 @@ Notes:
 The images resulting from running this tool against Supaplex Spfix63 build are located in the [/out](/out) directory. Previews below:
 
 ### TITLE.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/title.png">
 
 ### MOVING.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/moving.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/moving.png">
 
 ### FIXED.DAT
 <img src="https://img.visualrealmsoftware.com/scale/1280/github.com/visrealm/supaplex-tools/raw/main/out/fixed.png">
 
 ### TITLE1.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title1.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/title1.png">
 
 ### TITLE2.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/title2.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/title2.png">
 
 ### MENU.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/menu.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/menu.png">
 
 ### PANEL.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/panel.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/panel.png">
 
 ### CHARS6.DAT
 <img src="https://img.visualrealmsoftware.com/scale/1024/github.com/visrealm/supaplex-tools/raw/main/out/chars6.png">
@@ -47,13 +47,13 @@ The images resulting from running this tool against Supaplex Spfix63 build are l
 <img src="https://img.visualrealmsoftware.com/scale/1024/github.com/visrealm/supaplex-tools/raw/main/out/chars8.png">
 
 ### CONTROLS.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/controls.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/controls.png">
 
 ### GFX.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/gfx.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/gfx.png">
 
 ### BACK.DAT
-<img src="https://img.visualrealmsoftware.com/scale/960/github.com/visrealm/supaplex-tools/raw/main/out/back.png">
+<img src="https://img.visualrealmsoftware.com/scale/640/github.com/visrealm/supaplex-tools/raw/main/out/back.png">
 
 ## License
 This code is licensed under the MIT license. See [LICENSE](LICENSE).
