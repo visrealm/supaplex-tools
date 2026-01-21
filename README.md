@@ -15,6 +15,14 @@ Notes:
 - If `PALETTES.DAT` is available (auto-detected under `--dat-dir` or passed with `--palette-file`), the game palettes are used. Otherwise a grayscale fallback is applied, except for the built-in TITLE/TITLE1/TITLE2 palettes.
 - Known files are listed in `DAT_SPECS` inside the script (MENU, BACK, CONTROLS, GFX, TITLE*, PANEL, MOVING, FIXED, CHARS6/8). Unknown `.DAT` files are skipped.
 
+## Level images
+
+Also added all levels as images. Example:
+
+<img src="https://github.com/visrealm/supaplex-tools/raw/main/levels/001-WARM UP.png">
+
+See [levels/README.md](levels/README.md)
+
 ## Output previews
 
 The images resulting from running this tool against Supaplex Spfix63 build are located in the [/out](/out) directory. Previews below:
